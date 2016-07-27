@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "npm run server",
-    "server": "webpack-dev-server --port=3030 ./dist"
+    "server": "webpack-dev-server --port=3030 --content-base ./dist"
   },
   "dependencies": {
     "react": "^15.2.1",
