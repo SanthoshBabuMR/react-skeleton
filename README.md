@@ -6,3 +6,5 @@ react-skeleton for providing setting up the base development environment
 * .gitignore ( list files that should not be committed to repo )
 * editorconfig ( enforces coding style consistency )
 * babel ( Transpiles ES6 to ES5; handles react JSX )
+* react ( handles view )
+* redux ( handles data flow )
