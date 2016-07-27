@@ -1,0 +1,14 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "react-skeleton for providing the development setup",
+  "main": "index.js",
+  "author": "Santhosh Babu <html5webster@gmail.com>",
+  "license": "MIT",
+  "repository" : { 
+  	"type" : "git",
+  	"url" : "https://github.com/html5webster/react-skeleton.git"
+  },
+  "scripts": {
+  },
+}
