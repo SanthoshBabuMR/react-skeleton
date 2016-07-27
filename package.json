@@ -9,7 +9,11 @@
     "type": "git",
     "url": "https://github.com/html5webster/react-skeleton.git"
   },
-  "scripts": {},
+  "scripts": {
+    "start": "npm run server",
+    "server": "webpack-dev-server --port=3030 ./dist",
+    "preinstall": "npm i -g webpack-dev-server"
+  },
   "dependencies": {
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
