@@ -11,8 +11,7 @@
   },
   "scripts": {
     "start": "npm run server",
-    "server": "webpack-dev-server --port=3030 ./dist",
-    "preinstall": "npm i -g webpack-dev-server"
+    "server": "webpack-dev-server --port=3030 ./dist"
   },
   "dependencies": {
     "react": "^15.2.1",
